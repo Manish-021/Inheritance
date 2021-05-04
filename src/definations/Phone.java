@@ -8,5 +8,5 @@
 package definations;
 
 public class Phone {
-    private long conatctNumber;
+    private long contactNumber;
 }
